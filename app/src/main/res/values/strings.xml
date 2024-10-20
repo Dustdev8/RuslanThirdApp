@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RuslanThirdApp</string>
+    <string name="num0_text">0</string>
+    <string name="num1_text">1</string>
+    <string name="num2_text">2</string>
+    <string name="num3_text">3</string>
+    <string name="num4_text">4</string>
+    <string name="num5_text">5</string>
+    <string name="num6_text">6</string>
+    <string name="num7_text">7</string>
+    <string name="num8_text">8</string>
+    <string name="num9_text">9</string>
+    <string name="dot_text">.</string>
+    <string name="del_text">del</string>
+    <string name="ac_text">AC</string>
+    <string name="div_text">/</string>
+    <string name="square_root_text">√</string>
+    <string name="multiply_text">*</string>
+    <string name="subtraction_text">-</string>
+    <string name="sum_text">+</string>
+    <string name="equal_text">=</string>
+    <string name="sign_change_text">+/-</string>
+
+</resources>
